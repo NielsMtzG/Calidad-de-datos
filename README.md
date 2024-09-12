@@ -5,3 +5,4 @@ Contenido del curso: Calidad de datos: Cod Fac.
 
 * Calidad.ipynb: Script de diferentes KPI's así como analisis de la calidad de los datos.
 * tips.csv: base de datos de ejemplo.
+* cal.py: ejemplo de script para detectar KPI's en los datos.
